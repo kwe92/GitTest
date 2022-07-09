@@ -1,3 +1,5 @@
 # Demo Push Repository
 
-Some description on what the repository contains.
+Some description of what the purpose of the repository is
+ 
+  - This is a demo push repo.
